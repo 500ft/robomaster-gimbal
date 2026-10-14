@@ -1,0 +1,22 @@
+[
+  {
+    "path": "images/physical-gimbal-assembly.jpg",
+    "sha256": "b7819fa434486330a3421da865eee4da66be2f390875367a261fd194c0a891c3",
+    "source": "500ft/Portfolio at 9ecef2596cc078366325cac99261b3b4eba1fdbb: public/projects/robomaster-launcher/physical-gimbal-assembly.jpg"
+  },
+  {
+    "path": "images/first-image.png",
+    "sha256": "818a8ba00013856ef08a84881807d84cba2b80a3dfd823cca8b315eef652d9a0",
+    "source": "500ft/Portfolio at 9ecef2596cc078366325cac99261b3b4eba1fdbb: public/projects/robomaster-launcher/first-image.png"
+  },
+  {
+    "path": "images/flywheel-isometric.png",
+    "sha256": "2b054ac985c58d1408f6a74328bd6fb4afebc9a5ff135d26af8781ba525ae230",
+    "source": "500ft/Portfolio at 9ecef2596cc078366325cac99261b3b4eba1fdbb: public/projects/robomaster-launcher/flywheel-isometric.png"
+  },
+  {
+    "path": "images/super-capacitor-case.png",
+    "sha256": "9b29ecb8984722164218842f94b8df30dd0da3df0b7e8a0f3e21fb2ac68ffeab",
+    "source": "500ft/Portfolio at 9ecef2596cc078366325cac99261b3b4eba1fdbb: public/projects/robomaster-launcher/super-capacitor-case.png"
+  }
+]
